@@ -1,0 +1,6 @@
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.pdb

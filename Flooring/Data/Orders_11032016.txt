@@ -1,0 +1,12 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Grace Murray Hopper,RI,7,Tile,2817,1.5,14.3,4225.5,40283.1,3115.6,47624.2
+2,Grace Murray Hopper,OH,7.14,Bamboo,2869,18.5,9.25,53076.5,26538.25,5684.49,85299.24
+3,Bill Gates,AK,1.76,Laminate,2940,4.5,9.8,13230,28812,739.94,42781.94
+4,Albert Einstein,KY,6,Granite,2436,72.5,29.25,176610,71253,14871.78,262734.78
+5,Monty Hall,OH,7.14,Carpet,1021,12.5,6.3,12762.5,6432.3,1370.51,20565.31
+6,Ada Lovelace,KY,6,Granite,2619,72.5,29.25,189877.5,76605.75,15989,282472.25
+7,Monty Hall,RI,7,Straw,524,1.8,3.25,943.2,1703,185.23,2831.43
+8,Albert Einstein,AK,1.76,Dirt,2725,0.78,3.33,2125.5,9074.25,197.12,11396.87
+9,Alex Trebek,RI,7,Dirt,698,0.78,3.33,544.44,2324.34,200.81,3069.59
+10,Charles Darwin,OH,7.14,Bamboo,334,18.5,9.25,6179,3089.5,661.77,9930.27
+11,Elon Musk,TX,8.19,Granite,2773,72.5,29.25,201042.5,81110.25,23108.31,305261.06

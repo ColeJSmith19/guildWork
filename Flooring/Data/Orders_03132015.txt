@@ -1,0 +1,9 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Penn Jillette,AK,1.76,Laminate,2602,4.5,9.8,11709,25499.6,654.87,37863.47
+2,Charles Babbage,AK,1.76,Mosaic Tile,1883,18.5,49.25,34835.5,92737.75,2245.29,129818.54
+3,Steve Jobs,HI,4.35,Dirt,2187,0.78,3.33,1705.86,7282.71,391,9379.57
+4,Jaden Smith,AK,1.76,Carpet,378,12.5,6.3,4725,2381.4,125.07,7231.47
+5,Bill Gates,RI,7,Mosaic Tile,1513,18.5,49.25,27990.5,74515.25,7175.4,109681.15
+6,Charles Darwin,AK,1.76,Mosaic Tile,2847,18.5,49.25,52669.5,140214.75,3394.76,196279.01
+7,Ada Lovelace,OH,7.14,Straw,1710,1.8,3.25,3078,5557.5,616.57,9252.07
+8,Charles Darwin,TX,8.19,Marble,764,88.73,34.25,67789.72,26167,7695.06,101651.78

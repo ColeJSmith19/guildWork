@@ -1,0 +1,7 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Monty Hall,OH,7.14,Carpet,960,12.5,6.3,12000,6048,1288.63,19336.63
+2,Albert Einstein,AK,1.76,Dirt,2118,0.78,3.33,1652.04,7052.94,153.21,8858.19
+3,Monty Hall,TN,9.46,Carpet,1833,12.5,6.3,22912.5,11547.9,3259.95,37720.35
+4,Monty Hall,OH,7.14,Carpet,550,12.5,6.3,6875,3465,738.28,11078.28
+5,Bill Gates,HI,4.35,Granite,2682,72.5,29.25,194445,78448.5,11870.87,284764.37
+6,Grace Murray Hopper,TX,8.19,Dirt,913,0.78,3.33,712.14,3040.29,307.32,4059.75

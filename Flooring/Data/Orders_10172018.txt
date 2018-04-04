@@ -1,0 +1,13 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Penn Jillette,OH,7.14,Bamboo,694,18.5,9.25,12839,6419.5,1375.06,20633.56
+2,Charles Darwin,HI,4.35,Laminate,1956,4.5,9.8,8802,19168.8,1216.73,29187.53
+3,Alex Trebek,HI,4.35,Dirt,1572,0.78,3.33,1226.16,5234.76,281.05,6741.97
+4,Grace Murray Hopper,TN,9.46,Granite,924,72.5,29.25,66990,27027,8894.01,102911.01
+5,Grace Murray Hopper,TX,8.19,Laminate,1911,4.5,9.8,8599.5,18727.8,2238.11,29565.41
+6,Jaden Smith,AK,1.76,Laminate,1214,4.5,9.8,5463,11897.2,305.54,17665.74
+7,Albert Einstein,TN,9.46,Tile,406,1.5,14.3,609,5805.8,606.84,7021.64
+8,Penn Jillette,TX,8.19,Laminate,1946,4.5,9.8,8757,19070.8,2279.1,30106.9
+9,Albert Einstein,TX,8.19,Wood,412,12.5,9.25,5150,3811,733.91,9694.91
+10,Charles Babbage,TN,9.46,Laminate,896,4.5,9.8,4032,8780.8,1212.09,14024.89
+11,Thomas J. Watson,AK,1.76,Dirt,2534,0.78,3.33,1976.52,8438.22,183.3,10598.04
+12,Grace Murray Hopper,KY,6,Laminate,1230,4.5,9.8,5535,12054,1055.34,18644.34

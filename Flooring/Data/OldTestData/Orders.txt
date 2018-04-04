@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total,OrderDate
+1,Cole Smith,Indiana,6,Wood,600,2.25,1,135.00,60,195.06,390.06,2/13/2018 12:00:00 AM
+2,Bob McCloud,Ohio,6.25,Tile,69420,3,5,208260,347100,555360.0625,1110720.0625,2/13/2018 12:00:00 AM
+3,Kyle,Kentucky,5,Wood,600,4,3,2400,1800,4200.05,8400.05,2/16/2018 12:00:00 AM
+4,Sir Alan the Great,Ohio,5.25,Wood,500,30,2,12000,800,12800.0525,25600.0525,3/28/2018 12:00:00 AM
+5,cat,indiana,5,fur,400,2,4,800,1600,2400.05,4800.05,3/1/2018 12:00:00 AM

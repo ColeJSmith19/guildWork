@@ -1,0 +1,15 @@
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\SGBankTest.dll.config
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\SGBankTest.dll
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\SGBankTest.pdb
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\nunit.framework.dll
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\SGBank.BLL.dll
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\SGBank.Data.dll
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\SGBank.Models.dll
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\SGBank.BLL.pdb
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\SGBank.Data.pdb
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\SGBank.Models.pdb
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\bin\Debug\nunit.framework.xml
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\obj\Debug\SGBankTest.csprojResolveAssemblyReference.cache
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\obj\Debug\SGBankTest.csproj.CoreCompileInputs.cache
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\obj\Debug\SGBankTest.dll
+C:\Cole Repo\cole-smith-individual-work\SGBank.UI\SGBankTest\obj\Debug\SGBankTest.pdb

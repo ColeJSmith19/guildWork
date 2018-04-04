@@ -1,0 +1,8 @@
+StateAbbreviation,StateName,TaxRate
+KY,Kentucky,6
+OH,Ohio,7.14
+HI,Hawaii,4.35
+AK,Alaska,1.76
+RI,Rhode Island,7
+TX,Texas,8.19
+TN,Tennessee,9.46

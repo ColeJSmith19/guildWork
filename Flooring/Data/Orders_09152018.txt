@@ -1,0 +1,7 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Charles Darwin,RI,7,Straw,271,1.8,3.25,487.8,880.75,95.8,1464.35
+2,Monty Hall,HI,4.35,Mosaic Tile,596,18.5,49.25,11026,29353,1756.49,42135.49
+3,Bill Gates,HI,4.35,Tile,945,1.5,14.3,1417.5,13513.5,649.5,15580.5
+4,Bill Gates,TX,8.19,Wood,2168,12.5,9.25,27100,20054,3861.91,51015.91
+5,Ada Lovelace,TX,8.19,Tile,1052,1.5,14.3,1578,15043.6,1361.31,17982.91
+6,Ada Lovelace,HI,4.35,Tile,1598,1.5,14.3,2397,22851.4,1098.31,26346.71

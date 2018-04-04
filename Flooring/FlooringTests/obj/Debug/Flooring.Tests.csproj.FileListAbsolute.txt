@@ -1,0 +1,15 @@
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\FlooringTests.dll.config
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\FlooringTests.dll
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\FlooringTests.pdb
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\Flooring.BLL.dll
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\Flooring.Data.dll
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\Flooring.Models.dll
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\nunit.framework.dll
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\Flooring.BLL.pdb
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\Flooring.Data.pdb
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\Flooring.Models.pdb
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\bin\Debug\nunit.framework.xml
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\obj\Debug\Flooring.Tests.csprojResolveAssemblyReference.cache
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\obj\Debug\Flooring.Tests.csproj.CoreCompileInputs.cache
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\obj\Debug\FlooringTests.dll
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\FlooringTests\obj\Debug\FlooringTests.pdb

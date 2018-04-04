@@ -1,0 +1,6 @@
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\Flooring.Models\bin\Debug\Flooring.Models.dll
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\Flooring.Models\bin\Debug\Flooring.Models.pdb
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\Flooring.Models\obj\Debug\Flooring.Models.csprojResolveAssemblyReference.cache
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\Flooring.Models\obj\Debug\Flooring.Models.csproj.CoreCompileInputs.cache
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\Flooring.Models\obj\Debug\Flooring.Models.dll
+C:\Cole Repo\cole-smith-individual-work\Flooring.UI\Flooring.Models\obj\Debug\Flooring.Models.pdb

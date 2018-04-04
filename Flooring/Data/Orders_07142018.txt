@@ -1,0 +1,8 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Jaden Smith,TN,9.46,Marble,208,88.73,34.25,18455.84,7124,2419.85,27999.69
+2,Steve Jobs,AK,1.76,Laminate,2951,4.5,9.8,13279.5,28919.8,742.71,42942.01
+3,Jean Ichbiah,KY,6,Laminate,1056,4.5,9.8,4752,10348.8,906.05,16006.85
+4,Albert Einstein,KY,6,Granite,1128,72.5,29.25,81780,32994,6886.44,121660.44
+5,Albert Einstein,HI,4.35,Dirt,2029,0.78,3.33,1582.62,6756.57,362.75,8701.94
+6,Charles Darwin,RI,7,Straw,1892,1.8,3.25,3405.6,6149,668.82,10223.42
+7,Jaden Smith,HI,4.35,Wood,659,12.5,9.25,8237.5,6095.75,623.5,14956.75

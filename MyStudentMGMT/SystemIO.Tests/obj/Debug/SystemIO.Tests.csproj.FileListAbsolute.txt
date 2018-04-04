@@ -1,0 +1,11 @@
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\bin\Debug\SystemIO.Tests.dll
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\bin\Debug\SystemIO.Tests.pdb
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\bin\Debug\MyStudentMGMT.UI.exe
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\bin\Debug\nunit.framework.dll
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\bin\Debug\MyStudentMGMT.UI.pdb
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\bin\Debug\MyStudentMGMT.UI.exe.config
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\bin\Debug\nunit.framework.xml
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\obj\Debug\SystemIO.Tests.csprojResolveAssemblyReference.cache
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\obj\Debug\SystemIO.Tests.csproj.CoreCompileInputs.cache
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\obj\Debug\SystemIO.Tests.dll
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\SystemIO.Tests\obj\Debug\SystemIO.Tests.pdb

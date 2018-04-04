@@ -1,0 +1,9 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Thomas J. Watson,TN,9.46,Laminate,1599,4.5,9.8,7195.5,15670.2,2163.1,25028.8
+2,Jean Ichbiah,AK,1.76,Mosaic Tile,2930,18.5,49.25,54205,144302.5,3493.73,202001.23
+3,Grace Murray Hopper,RI,7,Carpet,2221,12.5,6.3,27762.5,13992.3,2922.84,44677.64
+4,Monty Hall,TX,8.19,Wood,1348,12.5,9.25,16850,12469,2401.23,31720.23
+5,Monty Hall,KY,6,Granite,2495,72.5,29.25,180887.5,72978.75,15231.98,269098.23
+6,Jean Ichbiah,KY,6,Marble,2677,88.73,34.25,237530.21,91687.25,19753.05,348970.51
+7,Steve Jobs,KY,6,Granite,2299,72.5,29.25,166677.5,67245.75,14035.4,247958.65
+8,Bill Gates,HI,4.35,Tile,243,1.5,14.3,364.5,3474.9,167.01,4006.41

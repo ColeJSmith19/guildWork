@@ -1,0 +1,8 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Grace Murray Hopper,RI,7,Bamboo,270,18.5,9.25,4995,2497.5,524.48,8016.98
+2,Thomas J. Watson,TN,9.46,Laminate,1364,4.5,9.8,6138,13367.2,1845.19,21350.39
+3,Steve Jobs,HI,4.35,Marble,261,88.73,34.25,23158.53,8939.25,1396.25,33494.03
+4,Bill Gates,RI,7,Wood,1235,12.5,9.25,15437.5,11423.75,1880.29,28741.54
+5,Bill Gates,HI,4.35,Wood,1641,12.5,9.25,20512.5,15179.25,1552.59,37244.34
+6,Steve Jobs,HI,4.35,Dirt,2384,0.78,3.33,1859.52,7938.72,426.22,10224.46
+7,Albert Einstein,HI,4.35,Dirt,1091,0.78,3.33,850.98,3633.03,195.05,4679.06

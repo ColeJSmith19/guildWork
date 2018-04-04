@@ -1,0 +1,8 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Albert Einstein,TN,9.46,Wood,2503,12.5,9.25,31287.5,23152.75,5150.05,59590.3
+2,Penn Jillette,TN,9.46,Straw,2294,1.8,3.25,4129.2,7455.5,1095.91,12680.61
+3,Elon Musk,TN,9.46,Marble,2075,88.73,34.25,184114.75,71068.75,24140.36,279323.86
+4,Bill Gates,RI,7,Marble,272,88.73,34.25,24134.56,9316,2341.54,35792.1
+5,Monty Hall,AK,1.76,Dirt,274,0.78,3.33,213.72,912.42,19.82,1145.96
+6,Monty Hall,HI,4.35,Laminate,1620,4.5,9.8,7290,15876,1007.72,24173.72
+7,Ada Lovelace,TN,9.46,Dirt,2293,0.78,3.33,1788.54,7635.69,891.53,10315.76

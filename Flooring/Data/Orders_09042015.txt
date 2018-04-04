@@ -1,0 +1,8 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Grace Murray Hopper,TN,9.46,Mosaic Tile,2069,18.5,49.25,38276.5,101898.25,13260.53,153435.28
+2,Jaden Smith,AK,1.76,Mosaic Tile,2356,18.5,49.25,43586,116033,2809.29,162428.29
+3,Jean Ichbiah,TN,9.46,Marble,1816,88.73,34.25,161133.68,62198,21127.18,244458.86
+4,Monty Hall,KY,6,Marble,2378,88.73,34.25,210999.94,81446.5,17546.79,309993.23
+5,Bill Gates,RI,7,Carpet,774,12.5,6.3,9675,4876.2,1018.58,15569.78
+6,Alex Trebek,TX,8.19,Carpet,869,12.5,6.3,10862.5,5474.7,1338.02,17675.22
+7,Albert Einstein,AK,1.76,Mosaic Tile,1323,18.5,49.25,24475.5,65157.75,1577.55,91210.8

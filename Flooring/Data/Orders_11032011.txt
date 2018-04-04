@@ -1,0 +1,7 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Jean Ichbiah,KY,6,Marble,602,88.73,34.25,53415.46,20618.5,4442.04,78476
+2,Thomas J. Watson,OH,7.14,Granite,1820,72.5,29.25,131950,53235,13222.21,198407.21
+3,Ada Lovelace,TN,9.46,Laminate,183,4.5,9.8,823.5,1793.4,247.56,2864.46
+4,Alex Trebek,TX,8.19,Marble,926,88.73,34.25,82163.98,31715.5,9326.73,123206.21
+5,Penn Jillette,HI,4.35,Tile,1669,1.5,14.3,2503.5,23866.7,1147.1,27517.3
+6,Monty Hall,RI,7,Tile,1482,1.5,14.3,2223,21192.6,1639.09,25054.69

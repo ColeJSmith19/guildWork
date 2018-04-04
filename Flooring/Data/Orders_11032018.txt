@@ -1,0 +1,11 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Albert Einstein,TN,9.46,Mosaic Tile,2868,18.5,49.25,53058,141249,18381.44,212688.44
+2,Bill Gates,TN,9.46,Laminate,944,4.5,9.8,4248,9251.2,1277.02,14776.22
+3,Thomas J. Watson,TN,9.46,Laminate,1546,4.5,9.8,6957,15150.8,2091.4,24199.2
+4,Charles Babbage,OH,7.14,Mosaic Tile,954,18.5,49.25,17649,46984.5,4614.83,69248.33
+5,Jaden Smith,TN,9.46,Wood,2189,12.5,9.25,27362.5,20248.25,4503.98,52114.73
+6,Charles Babbage,OH,7.14,Mosaic Tile,113,18.5,49.25,2090.5,5565.25,546.62,8202.37
+7,Penn Jillette,TN,9.46,Wood,1701,12.5,9.25,21262.5,15734.25,3499.89,40496.64
+8,Penn Jillette,OH,7.14,Dirt,2022,0.78,3.33,1577.16,6733.26,593.36,8903.78
+9,Albert Einstein,OH,7.14,Straw,2148,1.8,3.25,3866.4,6981,774.5,11621.9
+10,Jean Ichbiah,HI,4.35,Wood,2369,12.5,9.25,29612.5,21913.25,2241.37,53767.12

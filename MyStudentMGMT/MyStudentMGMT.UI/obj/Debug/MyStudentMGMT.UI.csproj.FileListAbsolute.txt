@@ -1,0 +1,7 @@
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\MyStudentMGMT.UI\bin\Debug\MyStudentMGMT.UI.exe.config
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\MyStudentMGMT.UI\bin\Debug\MyStudentMGMT.UI.exe
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\MyStudentMGMT.UI\bin\Debug\MyStudentMGMT.UI.pdb
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\MyStudentMGMT.UI\obj\Debug\MyStudentMGMT.UI.csprojResolveAssemblyReference.cache
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\MyStudentMGMT.UI\obj\Debug\MyStudentMGMT.UI.csproj.CoreCompileInputs.cache
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\MyStudentMGMT.UI\obj\Debug\MyStudentMGMT.UI.exe
+C:\Cole Repo\cole-smith-individual-work\MyStudentMGMT\MyStudentMGMT.UI\obj\Debug\MyStudentMGMT.UI.pdb

@@ -1,0 +1,11 @@
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\bin\Debug\DvdLibraryAPI.Data.dll
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\bin\Debug\DvdLibraryAPI.Data.pdb
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\obj\Debug\DvdLibraryAPI.Data.csproj.CoreCompileInputs.cache
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\obj\Debug\DvdLibraryAPI.Data.dll
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\obj\Debug\DvdLibraryAPI.Data.pdb
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\bin\Debug\DvdLibraryAPI.Data.dll.config
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\bin\Debug\EntityFramework.dll
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\bin\Debug\EntityFramework.xml
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Cole Repo\cole-smith-individual-work\DVDLibrary\DvdLibrary\DvdLibraryAPI.Data\obj\Debug\DvdLibraryAPI.Data.csprojResolveAssemblyReference.cache

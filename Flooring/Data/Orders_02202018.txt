@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,Alan Galloway,Kentucky,6,Wood,10,5.15,4.75,51.50,47.50,5.9400,99.00
+40,Alan Galloway,Kentucky,6,Wood,10,5.15,4.75,51.50,47.50,5.9400,99.00
+46857,Alan Galloway,Kentucky,6,Wood,10,5.15,4.75,51.50,47.50,5.9400,99.00
+4687,Alan Galloway,Kentucky,6,Wood,10,5.15,4.75,51.50,47.50,5.9400,99.00

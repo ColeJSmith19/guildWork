@@ -1,0 +1,11 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Albert Einstein,OH,7.14,Tile,197,1.5,14.3,295.5,2817.1,222.24,3334.84
+2,Jean Ichbiah,AK,1.76,Granite,2664,72.5,29.25,193140,77922,4770.69,275832.69
+3,Thomas J. Watson,OH,7.14,Carpet,780,12.5,6.3,9750,4914,1047.01,15711.01
+4,Jean Ichbiah,OH,7.14,Marble,2393,88.73,34.25,212330.89,81960.25,21012.39,315303.53
+5,Elon Musk,TN,9.46,Mosaic Tile,143,18.5,49.25,2645.5,7042.75,916.51,10604.76
+6,Jaden Smith,TX,8.19,Mosaic Tile,798,18.5,49.25,14763,39301.5,4427.88,58492.38
+7,Elon Musk,RI,7,Carpet,1048,12.5,6.3,13100,6602.4,1379.17,21081.57
+8,Penn Jillette,AK,1.76,Granite,1813,72.5,29.25,131442.5,53030.25,3246.72,187719.47
+9,Penn Jillette,KY,6,Tile,912,1.5,14.3,1368,13041.6,864.58,15274.18
+10,Alex Trebek,TN,9.46,Carpet,2500,12.5,6.3,31250,15750,4446.2,51446.2

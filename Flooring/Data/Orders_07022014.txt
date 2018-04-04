@@ -1,0 +1,10 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Elon Musk,HI,4.35,Wood,1267,12.5,9.25,15837.5,11719.75,1198.74,28755.99
+2,Alex Trebek,AK,1.76,Marble,1959,88.73,34.25,173822.07,67095.75,4240.15,245157.97
+3,Charles Babbage,AK,1.76,Bamboo,2275,18.5,9.25,42087.5,21043.75,1111.11,64242.36
+4,Charles Babbage,TX,8.19,Tile,835,1.5,14.3,1252.5,11940.5,1080.51,14273.51
+5,Elon Musk,OH,7.14,Bamboo,605,18.5,9.25,11192.5,5596.25,1198.72,17987.47
+6,Albert Einstein,HI,4.35,Granite,179,72.5,29.25,12977.5,5235.75,792.28,19005.53
+7,Thomas J. Watson,KY,6,Dirt,257,0.78,3.33,200.46,855.81,63.38,1119.65
+8,Alex Trebek,TN,9.46,Dirt,1333,0.78,3.33,1039.74,4438.89,518.28,5996.91
+9,Jean Ichbiah,AK,1.76,Straw,1560,1.8,3.25,2808,5070,138.65,8016.65

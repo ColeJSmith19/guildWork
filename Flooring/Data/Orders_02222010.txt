@@ -1,0 +1,8 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Steve Jobs,AK,1.76,Dirt,2621,0.78,3.33,2044.38,8727.93,189.59,10961.9
+2,Jean Ichbiah,OH,7.14,Laminate,468,4.5,9.8,2106,4586.4,477.84,7170.24
+3,Bill Gates,HI,4.35,Bamboo,2771,18.5,9.25,51263.5,25631.75,3344.94,80240.19
+4,Steve Jobs,HI,4.35,Dirt,1042,0.78,3.33,812.76,3469.86,186.29,4468.91
+5,Elon Musk,TX,8.19,Mosaic Tile,961,18.5,49.25,17778.5,47329.25,5332.32,70440.07
+6,Elon Musk,KY,6,Mosaic Tile,2034,18.5,49.25,37629,100174.5,8268.21,146071.71
+7,Bill Gates,AK,1.76,Laminate,1502,4.5,9.8,6759,14719.6,378.02,21856.62
