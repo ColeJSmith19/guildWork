@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Spark.Models.Tables.Set>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h2>New Cards</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <form id="searchForm" class="form-inline">
+            <div class="form-group">
+                <label for="minPrice">Min Price</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" id="minPrice">
+            </div>
+            <div class="form-group">
+                <label for="maxPrice">Max Price</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" id="maxPrice">
+            </div>
+            <div class="form-group">
+                <label for="cardName">Card Name</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" id="cardName">
+            </div>
+            <div class="form-group">
+                <label for="setName">Set Name</label>
+                @Html.DropDownList("setName", new SelectList(Model, "SetName", "SetName"), "Any")
+            </div>
+            <div class="form-group">
+                <label for="colorName">Color</label>
+                <input type="text" class="form-control mb-2 mr-sm-2" id="colorName">
+            </div>
+            <button type="submit" onclick="search()" class="btn btn-primary mb-2">Search</button>
+        </form>
+    </div>
+</div>
+<div id="searchResults" class="row">
+
+</div>
+
+@section Scripts
+{
+    <script>
+    $(document).ready(function () {
+        $('#searchForm').submit(function (e) {
+            search();
+            return false;
+        });
+    });
+
+       function search() {
+           var params;
+           var imagePath = '@Url.Content("~/Images/")';
+           var detailsPath = '@Url.Action("Details", "CardInfo")/';
+           var editPath = '@Url.Action("Edit", "CardInfo")/';
+
+           params = 'MinPrice=' + $('#minPrice').val() + '&MaxPrice=' + $('#maxPrice').val() + '&CardName=' + $('#cardName').val() + '&SetName=' + $('#setName').val() + '&ColorName=' + $('#colorName').val()
+           $.ajax({
+               type: 'GET',
+               url: 'http://localhost:60077/Inventory/Cards?' + params,
+               success: function (results) {
+                   $('#searchResults').empty();
+
+                   $.each(results, function (index, cardInfo) {
+                       var html = '<a href="../CardInfo/Details/' + cardInfo.CardId +'">' +
+                       '<div class="col-xs-12 col-sm-6 col-md-4" > <div class="card text-center">' +
+                       '<img style="height: 460px; width: 100%;" src="' + imagePath + cardInfo.CardArtURL +'" />' +
+                       '<h5 class="card-title">' + cardInfo.CardName + '</h5>' +
+                       '<p>' + '#' + cardInfo.CardNumber +', ' + cardInfo.SetName +', ' + '$' + cardInfo.MSRP + '</p>' +
+                       '<p><a href="' + detailsPath + cardInfo.CardId + '">view details</a>'+ '|' + '<a href="' + editPath + cardInfo.CardId + '">edit</a></p>' +
+                       '</div></div></a>';
+
+                       @*@Url.Content("~/Images/" + card.CardArtURL)
+                       @Html.ActionLink("view card", "Details", "CardInfo", new { id = card.CardId }, null)*@
+                       $('#searchResults').append(html);
+                   });
+               },
+               error: function () {
+                   alert('Error performing search. Try again later.')
+               }
+           });
+       }
+    </script>
+}
+

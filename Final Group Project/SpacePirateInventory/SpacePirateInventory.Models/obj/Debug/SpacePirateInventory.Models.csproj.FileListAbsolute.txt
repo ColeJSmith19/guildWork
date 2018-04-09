@@ -1,0 +1,8 @@
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Models\bin\Debug\SpacePirateInventory.Models.dll
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Models\bin\Debug\SpacePirateInventory.Models.pdb
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Models\bin\Debug\Dapper.dll
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Models\bin\Debug\Dapper.xml
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Models\obj\Debug\SpacePirateInventory.Models.csprojResolveAssemblyReference.cache
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Models\obj\Debug\SpacePirateInventory.Models.csproj.CoreCompileInputs.cache
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Models\obj\Debug\SpacePirateInventory.Models.dll
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Models\obj\Debug\SpacePirateInventory.Models.pdb

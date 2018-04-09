@@ -1,0 +1,15 @@
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\SpacePirateInventory.Tests.dll.config
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\SpacePirateInventory.Tests.dll
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\SpacePirateInventory.Tests.pdb
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\nunit.framework.dll
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\SpacePirateInventory.Data.dll
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\SpacePirateInventory.Models.dll
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\Dapper.dll
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\SpacePirateInventory.Data.pdb
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\SpacePirateInventory.Models.pdb
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\nunit.framework.xml
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\bin\Debug\Dapper.xml
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\obj\Debug\SpacePirateInventory.Tests.csprojResolveAssemblyReference.cache
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\obj\Debug\SpacePirateInventory.Tests.csproj.CoreCompileInputs.cache
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\obj\Debug\SpacePirateInventory.Tests.dll
+D:\coleRepo\jarrrrrrg\SpacePirateInventory\SpacePirateInventory.Tests\obj\Debug\SpacePirateInventory.Tests.pdb

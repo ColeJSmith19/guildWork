@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Spark.Models.Queries.CardShortItem>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Light that spark!</h1>
+    <p class="lead">We have some cards that you should buy! Look at 'em!</p>
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+        <h2>Featured Cards</h2>
+    </div>
+</div>
+<div class="row">
+    @*<div class="col-xs-12">*@
+        @foreach (var card in Model)
+        {
+            <a href="../CardInfo/Details/@card.CardId">
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="card text-center">
+
+                    <img style="height: 460px; width: 100%;" src="@Url.Content("~/Images/" + card.CardArtURL)" />
+                    <h5 class="card-title">@card.CardName</h5>
+                    <p>#@card.CardNumber, @card.SetName, @card.MSRP.ToString("c")</p>
+                    <p>@Html.ActionLink("view card", "Details", "CardInfo",new { id = card.CardId }, null)</p>
+                </div>
+            </div>
+                </a>
+        }
+    @*</div>*@
+</div>

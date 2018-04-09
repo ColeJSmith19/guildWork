@@ -1,0 +1,8 @@
+D:\coleRepo\cole-smith-individual-work\Card Dealership\Spark\Spark.Data\bin\Debug\Spark.Data.dll
+D:\coleRepo\cole-smith-individual-work\Card Dealership\Spark\Spark.Data\bin\Debug\Spark.Data.pdb
+D:\coleRepo\cole-smith-individual-work\Card Dealership\Spark\Spark.Data\bin\Debug\Spark.Models.dll
+D:\coleRepo\cole-smith-individual-work\Card Dealership\Spark\Spark.Data\bin\Debug\Spark.Models.pdb
+D:\coleRepo\cole-smith-individual-work\Card Dealership\Spark\Spark.Data\obj\Debug\Spark.Data.csprojResolveAssemblyReference.cache
+D:\coleRepo\cole-smith-individual-work\Card Dealership\Spark\Spark.Data\obj\Debug\Spark.Data.csproj.CoreCompileInputs.cache
+D:\coleRepo\cole-smith-individual-work\Card Dealership\Spark\Spark.Data\obj\Debug\Spark.Data.dll
+D:\coleRepo\cole-smith-individual-work\Card Dealership\Spark\Spark.Data\obj\Debug\Spark.Data.pdb

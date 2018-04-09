@@ -1,0 +1,117 @@
+﻿@model Spark.UI.Models.CardInfoAddViewModel
+@{
+    ViewBag.Title = "Add";
+}
+<div class="row">
+    <div class="col-xs-12 col-md-6 col-lg-6">
+        <h2>Add Card</h2>
+        @using (Html.BeginForm("Add", "CardInfo", FormMethod.Post, new { enctype = "multipart/form-data", id = "formAddCardInfo" }))
+        {
+            @Html.ValidationSummary()
+            <div class="col-sm-12 col-md-6 col-lg-6">
+                <div class="form-group">
+                    <label>Card Name</label>
+                    <br />
+                    @Html.TextBoxFor(m => m.CardInfo.CardName)
+                </div>
+                <div class="form-group">
+                    <label>Cmc</label>
+                    <br />
+                    @Html.TextBoxFor(m => m.CardInfo.Cmc)
+                </div>
+                <div class="form-group">
+                    <label>Colors</label>
+                    <br />
+                    @Html.TextBoxFor(m => m.CardInfo.Colors)
+                </div>
+                <div class="form-group">
+                    <label>Power</label>
+                    <br />
+                    @Html.TextBoxFor(m => m.CardInfo.Power)
+                </div>
+                <div class="form-group">
+                    <label>Toughness</label>
+                    <br />
+                    @Html.TextBoxFor(m => m.CardInfo.Toughness)
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+                <div class="form-group">
+                    <label>Set</label>
+                    <br />
+                    @Html.DropDownListFor(m => m.CardInfo.SetId, Model.Sets, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Artist</label>
+                    <br />
+                    @Html.DropDownListFor(m => m.CardInfo.ArtistId, Model.Artists, new { @class = "form-control" })
+                    @*@Html.TextBoxFor(m => m.CardInfo.ArtistName)*@
+                </div>
+                <div class="form-group">
+                    <label>Card Number</label>
+                    <br />
+                    @Html.TextBoxFor(m => m.CardInfo.CardNumber)
+                </div>
+                <div class="form-group">
+                    <label>MSRP</label>
+                    <br />
+                    @Html.TextBoxFor(m => m.CardInfo.MSRP)
+                </div>
+                <div class="form-group">
+                    <label>Sale Price</label>
+                    <br />
+                    @Html.TextBoxFor(m => m.CardInfo.SalePrice)
+                </div>
+                <div class="form-group">
+                    <label>Card Text</label>
+                    <br />
+                    @Html.TextAreaFor(m => m.CardInfo.CardText)
+                </div>
+                <div class="form-group">
+                    <label>Image</label>
+                    <input id="ImageUpload" name="ImageUpload" type="file" class="form-control" />
+                </div>
+            </div>
+            <button class="btn btn-primary">Add Card</button>
+        }
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $('#formAddCardInfo').validate({
+                rules: {
+                    'CardInfo.CardName': {
+                        required: true
+                    },
+                    'CardInfo.Cmc': {
+                        required: true
+                    },
+                    'CardInfo.Colors': {
+                        required: true
+                    },
+                    'CardInfo.CardNumber': {
+                        required: true,
+                        number: true,
+                        min: 1
+                    },
+                    'CardInfo.MSRP': {
+                        required: true,
+                        number: true
+                    },
+                    'CardInfo.SalePrice': {
+                        required: true,
+                        number: true
+                    },
+                    'ImageUpload': {
+                        required: true
+                    }
+                }
+            });
+        });
+
+    </script>
+}
+
+

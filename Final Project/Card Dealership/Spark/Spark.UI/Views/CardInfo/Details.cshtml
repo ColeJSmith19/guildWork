@@ -1,0 +1,103 @@
+﻿@model Spark.Models.Queries.CardLongItem
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h2>Card Details</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-4">
+        <img src="@Url.Content("~/Images/" + Model.CardArtURL)" />
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-4">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <td><strong>Card Name:</strong></td>
+                    <td>@Model.CardName</td>
+                </tr>
+                <tr>
+                    <td><strong>Card Colors:</strong></td>
+                    <td>@Model.ColorName</td>
+                </tr>
+                <tr>
+                    <td><strong>CMC:</strong></td>
+                    <td>@Model.CmcAmount</td>
+                </tr>
+                <tr>
+                    <td><strong>Card Type:</strong></td>
+                    <td>@Model.TypeName</td>
+                </tr>
+                <tr>
+                    <td><strong>Set Name:</strong></td>
+                    <td>@Model.SetName</td>
+                </tr>
+                <tr>
+                    <td><strong>Power:</strong></td>
+                    <td>
+                        @if (@Model.Power != null)
+                        {
+                            @Model.Power
+                        }
+                        else
+                        {
+                            <text>N/A</text>
+                        }
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-4">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <td><strong>Toughness:</strong></td>
+                    <td>
+                        @if (@Model.Toughness != null)
+                        {
+                            @Model.Toughness
+                        }
+                        else
+                        {
+                            <text>N/A</text>
+                        }
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Artist Name:</strong></td>
+                    <td>@Model.ArtistName</td>
+                </tr>
+                <tr>
+                    <td><strong>Card Number:</strong></td>
+                    <td>@Model.CardNumber</td>
+                </tr>
+                <tr>
+                    <td><strong>MSRP:</strong></td>
+                    <td>@Model.MSRP.ToString("c")</td>
+                </tr>
+                <tr>
+                    <td><strong>Sale Price:</strong></td>
+                    <td>@Model.SalePrice.ToString("c")</td>
+                </tr>
+                <tr>
+                    <td><strong>Oracle Text:</strong></td>
+                    <td>@Model.CardText</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <p>
+            <button id="btnContact" class="btn btn-dark" onclick="window.location='/Home/Contact';">Contact Us</button>
+        </p>
+    </div>
+</div>
+
+

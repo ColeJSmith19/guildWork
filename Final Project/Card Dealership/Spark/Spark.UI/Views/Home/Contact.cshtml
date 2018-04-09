@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "Contact";
+}
+<style>
+    #map {
+        height: 400px;
+        width: 100%;
+    }
+</style>
+
+
+<h3>Contact Us</h3>
+
+
+<div class="row">
+
+    <div class="col-xs-12 col-sm-12 col-md-6">
+        <div class="form-group">
+            <label><strong>Name</strong></label>
+            <br />
+            <input type="text" name="Name" placeholder="Full name" />
+        </div>
+        <div class="form-group">
+            <label><strong>Email</strong></label>
+            <br />
+            <input type="email" name="Email" placeholder="example@gmail.com" />
+        </div>
+        <div class="form-group">
+            <label><strong>Phone</strong></label>
+            <br />
+            <input type="tel" name="Phone" placeholder="111-111-1111" />
+        </div>
+        <div class="form-group">
+            <label><strong>Message</strong></label>
+            <br />
+            <textarea rows="4" cols="50" name="Message" form="usrform" /></textarea>
+        </div>
+    </div>
+
+    <div class="col-xs-12 col-sm-12 col-md-6">
+        <div id="map"></div>
+        <script>
+            function initMap() {
+                var uluru = { lat: 36.2048, lng: 138.2529 };
+                var map = new google.maps.Map(document.getElementById('map'), {
+                    zoom: 4,
+                    center: uluru
+                });
+                var marker = new google.maps.Marker({
+                    position: uluru,
+                    map: map
+                });
+            }
+        </script>
+
+        <address>
+            One Microsoft Way<br />
+            Redmond, WA 98052-6399<br />
+            <abbr title="Phone">P:</abbr>
+            425.555.0100
+        </address>
+
+        <address>
+            <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
+            <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+        </address>
+    </div>
+
+</div>
+
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBR7gDX0a7zB8upeaxlNyd2H3ZwuyGrpYw&callback=initMap">
+</script>
+
+
